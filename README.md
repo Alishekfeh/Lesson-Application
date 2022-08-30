@@ -16,14 +16,12 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 <h1>
+    
+    
     final Path path = Path();
-
-
-
     path.lineTo(0, size.height);
 
     path.lineTo(size.width / 2, size.height - 60);
-
 
     path.lineTo(size.width, size.height);
 
@@ -32,6 +30,15 @@ samples, guidance on mobile development, and a full API reference.
     path.close();
 
 </h1>
+
+FloatingActionButton(
+          onPressed: () {},
+          backgroundColor: Colors.white,
+          child: Icon(
+            icon,
+            color: Colors.indigo,
+          ),
+        ),
 <div>
 <img src="https://user-images.githubusercontent.com/40968259/187487767-ff83bd32-1cd5-48b9-b7e6-9219ff475928.gif" width="160" height="330">
   <br>
