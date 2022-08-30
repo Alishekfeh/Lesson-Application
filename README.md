@@ -30,7 +30,7 @@ samples, guidance on mobile development, and a full API reference.
     path.close();
 
 </h1>
-<p>
+<h2>
 FloatingActionButton(
           onPressed: () {},
           backgroundColor: Colors.white,
@@ -39,7 +39,7 @@ FloatingActionButton(
             color: Colors.indigo,
           ),
         ),
-</p>
+</h2>
 <div>
 <img src="https://user-images.githubusercontent.com/40968259/187487767-ff83bd32-1cd5-48b9-b7e6-9219ff475928.gif" width="160" height="330">
   <br>
